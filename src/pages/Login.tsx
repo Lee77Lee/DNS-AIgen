@@ -251,16 +251,16 @@ export const Login: React.FC = () => {
             </Form>
 
             {/* 提示信息 */}
-            <motion.div
+            {/* <motion.div
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 0.5, duration: 0.5 }}
               className="mt-6 pt-4 border-t border-white/10"
             >
               <div className="bg-purple-500/10 rounded-xl p-4 border border-purple-400/20">
-                {/* <p className="text-purple-200/70 text-sm text-center mb-2">
+                <p className="text-purple-200/70 text-sm text-center mb-2">
                   🔐 初始超级管理员账号
-                </p> */}
+                </p>
                 <div className="flex justify-center space-x-6 text-sm">
                   <div className="text-center">
                     <span className="text-purple-300/60 block mb-1">用户名</span>
@@ -272,7 +272,7 @@ export const Login: React.FC = () => {
                   </div>
                 </div>
               </div>
-            </motion.div>
+            </motion.div> */}
           </motion.div>
 
           {/* 底部装饰 */}
@@ -286,13 +286,13 @@ export const Login: React.FC = () => {
                 版本号：{packageJson.version}
             </span>
             {/* <p className="text-purple-300/50 text-sm"> */}
-              {/* © 2025 Sakura AI. Powered by AI & Automation */}
+              {/* © 2025 DNS AIgen. Powered by AI & Automation */}
               <span className="text-purple-300/50 text-sm">
-                Sakura AI. Powered by AI & Automation
+                DNS AIgen. Powered by AI & Automation
               </span>
               {/* <br /> */}
               <span className="text-purple-300/50 text-sm">
-                Copyright © 2019-2025 SakuraTech. All rights reserved.
+                Copyright © 2019-2025 DNS AIgen. All rights reserved.
               </span>
             {/* </p> */}
           </motion.div>
