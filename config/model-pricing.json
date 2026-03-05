@@ -114,6 +114,8 @@
     "qwen-vl-plus": {
       "input": 0.0000000001365,
       "output": 0.0000000004095,
+      "input": 0.0000000001365,
+      "output": 0.0000000004095,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
@@ -702,6 +704,8 @@
     "qwen/qwen3-coder-plus": {
       "input": 0.00000000065,
       "output": 0.00000000325,
+      "input": 0.00000000065,
+      "output": 0.00000000325,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
@@ -736,6 +740,8 @@
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
     "qwen/qwen3-coder-flash": {
+      "input": 0.000000000195,
+      "output": 0.000000000975,
       "input": 0.000000000195,
       "output": 0.000000000975,
       "source": "api",
@@ -774,10 +780,14 @@
     "qwen/qwen-plus-2025-07-28": {
       "input": 0.00000000026,
       "output": 0.00000000078,
+      "input": 0.00000000026,
+      "output": 0.00000000078,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
     "qwen/qwen-plus-2025-07-28:thinking": {
+      "input": 0.00000000026,
+      "output": 0.00000000078,
       "input": 0.00000000026,
       "output": 0.00000000078,
       "source": "api",
@@ -1134,6 +1144,7 @@
     "inception/mercury": {
       "input": 0.00000000025,
       "output": 0.00000000075,
+      "output": 0.00000000075,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
@@ -1271,6 +1282,7 @@
     },
     "inception/mercury-coder": {
       "input": 0.00000000025,
+      "output": 0.00000000075,
       "output": 0.00000000075,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
@@ -1578,6 +1590,8 @@
     "qwen/qwen-vl-plus": {
       "input": 0.0000000001365,
       "output": 0.0000000004095,
+      "input": 0.0000000001365,
+      "output": 0.0000000004095,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
@@ -1608,6 +1622,8 @@
     "qwen/qwen-turbo": {
       "input": 0.0000000000325,
       "output": 0.00000000013,
+      "input": 0.0000000000325,
+      "output": 0.00000000013,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
@@ -1624,6 +1640,8 @@
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
     "qwen/qwen-max": {
+      "input": 0.00000000104,
+      "output": 0.00000000416,
       "input": 0.00000000104,
       "output": 0.00000000416,
       "source": "api",
@@ -1852,6 +1870,8 @@
       "lastUpdated": "2026-03-05T03:25:53.336Z"
     },
     "meta-llama/llama-3.2-3b-instruct": {
+      "input": 0.000000000051,
+      "output": 0.00000000034,
       "input": 0.000000000051,
       "output": 0.00000000034,
       "source": "api",
@@ -2274,6 +2294,8 @@
     "qwen/qwen3-max-thinking": {
       "input": 0.00000000078,
       "output": 0.0000000039,
+      "input": 0.00000000078,
+      "output": 0.0000000039,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.335Z"
     },
@@ -2290,6 +2312,8 @@
       "lastUpdated": "2026-03-05T03:25:53.335Z"
     },
     "z-ai/glm-5": {
+      "input": 0.0000000008,
+      "output": 0.00000000256,
       "input": 0.0000000008,
       "output": 0.00000000256,
       "source": "api",
@@ -2310,10 +2334,14 @@
     "qwen/qwen3.5-plus-02-15": {
       "input": 0.00000000026,
       "output": 0.00000000156,
+      "input": 0.00000000026,
+      "output": 0.00000000156,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.335Z"
     },
     "qwen/qwen3.5-397b-a17b": {
+      "input": 0.00000000039,
+      "output": 0.00000000234,
       "input": 0.00000000039,
       "output": 0.00000000234,
       "source": "api",
@@ -2346,16 +2374,22 @@
     "qwen/qwen3.5-35b-a3b": {
       "input": 0.0000000001625,
       "output": 0.0000000013,
+      "input": 0.0000000001625,
+      "output": 0.0000000013,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.335Z"
     },
     "qwen/qwen3.5-27b": {
       "input": 0.000000000195,
       "output": 0.00000000156,
+      "input": 0.000000000195,
+      "output": 0.00000000156,
       "source": "api",
       "lastUpdated": "2026-03-05T03:25:53.335Z"
     },
     "qwen/qwen3.5-122b-a10b": {
+      "input": 0.00000000026,
+      "output": 0.00000000208,
       "input": 0.00000000026,
       "output": 0.00000000208,
       "source": "api",
